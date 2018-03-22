@@ -16,6 +16,8 @@ You need the next software and hardware for use the project.
 
 * Android [SDK](https://developer.android.com/studio/index.html) and [JDK](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 
+* One Signal [Unity SDK](https://documentation.onesignal.com/docs/unity-sdk-setup).
+
 ### Installing
 
 First you need Unity 5.6 or above, also you need Android Studio with the SDK and JDK, then you need to create the APK and a compatible smartphone.
@@ -24,7 +26,7 @@ If you download the APK from this repository you need a compatible Android smart
 
 ## Running the tests
 
-This project is a simple game for testing the push notification system with intentions to implement it in a future projects.
+This project is a simple game for testing the push notification system with intentions to implement it in future projects.
 
 ### Break down into end to end tests
 
@@ -33,7 +35,7 @@ The principal test are if the push system works good in Android.
 ## Built With
 
 * [Unity](https://unity3d.com/es) - The game engine.
-* [Unity SDK Setup from One signal](https://documentation.onesignal.com/docs/unity-sdk-setup) - SDK for Unity
+* [Unity SDK Setup from One Signal](https://documentation.onesignal.com/docs/unity-sdk-setup) - SDK for Unity
 
 ## Contributing
 
